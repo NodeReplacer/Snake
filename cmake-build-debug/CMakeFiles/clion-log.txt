@@ -1,0 +1,5 @@
+"G:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "G:\Personal Projects\C++ Projects\Snake" -B "G:\Personal Projects\C++ Projects\Snake\cmake-build-debug"
+-- Found SFML 2.5.1 in G:/Personal Projects/C++ Projects/Snake/SFML/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/Personal Projects/C++ Projects/Snake/cmake-build-debug
