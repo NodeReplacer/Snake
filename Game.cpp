@@ -129,7 +129,6 @@ void Game::Tick() {
                 }
             }
         } while (isFruitSafe == false);
-        std::cout << "Fruit Position: (" << fruit.x << ", " << fruit.y << ")" << std::endl;
     }
 
     //////////////////player boundary collision handling//////////////////////////
